@@ -1,3 +1,5 @@
+[Demo](http://jumpjack.github.io/JSCII) 
+
 # Announcement!
  I've put this project on hold to work on other stuff. Thanks for all the support, feel free to add features if you want, and I'll accept pull requests. Thank you!
 
